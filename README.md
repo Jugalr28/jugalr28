@@ -27,12 +27,6 @@
 
 ---
 
-### 👯 Looking to Collaborate On
-- Beginner-friendly open source  
-- Small web development projects  
-
----
-
 ### 💬 Ask Me About
 - Python basics  
 - Django & REST APIs  
