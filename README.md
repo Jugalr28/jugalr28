@@ -1,16 +1,53 @@
-## Hi there 👋
+## Hi there 👋 I'm Jugal
 
-<!--
-**Jugalr28/jugalr28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Fresher | 💻 Aspiring Full Stack Developer  
+🚀 Passionate about building web applications using Python & React  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- 🐍 Python  
+- ⚙️ Django & Django REST Framework (DRF)  
+- ⚛️ React  
+- 🌐 REST APIs  
+- 🛢️ SQLite / PostgreSQL  
+
+---
+
+### 🌱 Currently Learning
+- Advanced Django & DRF  
+- React projects & frontend design  
+- Building real-world full stack apps  
+
+---
+
+### 🔭 Projects I'm Working On
+- Full-stack web applications  
+- REST API development using DRF  
+
+---
+
+### 👯 Looking to Collaborate On
+- Beginner-friendly open source  
+- Small web development projects  
+
+---
+
+### 💬 Ask Me About
+- Python basics  
+- Django & REST APIs  
+- Getting started with React  
+
+---
+
+### 📫 How to Reach Me
+- GitHub: https://github.com/jugalr28  
+
+---
+
+### ⚡ Fun Fact
+I’m a fresher, but I learn fast and build faster 🚀  
+
+---
+
+⭐️ *Always learning, always building*
