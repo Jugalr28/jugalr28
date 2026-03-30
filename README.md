@@ -28,7 +28,7 @@
 ---
 
 ### 💬 Ask Me About
-- Python basics  
+- Python   
 - Django & REST APIs  
 - Getting started with React  
 
