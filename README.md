@@ -39,9 +39,4 @@
 
 ---
 
-### ⚡ Fun Fact
-I’m a fresher, but I learn fast and build faster 🚀  
-
----
-
 ⭐️ *Always learning, always building*
