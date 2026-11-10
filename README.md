@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Jugal
 
-🎓 Fresher | 💻 Aspiring Full Stack Developer  
-🚀 Passionate about building web applications using Python & React  
+💻 Software Developer  
+ 
 
 ---
 
